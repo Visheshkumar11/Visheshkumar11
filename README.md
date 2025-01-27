@@ -29,13 +29,12 @@ I believe in the power of data and technology to drive innovative solutions and 
 
 ✔ **Machine Learning** – Regression, Classification, Clustering, Model Optimization
 
-✔ **Artificial Intelligence** – Basics of Neural Networks, NLP
+✔ **Artificial Intelligence** –  Neural Networks, NLP
 
 ✔ **Data Structures and Algorithms** – Problem Solving, Complexity Optimization
 
 ✔ **Business Analysis** – BRD, FRD, Wireframes, Agile & Waterfall Methodologies
 
-✔ **Visualization Tools** – Power BI, Excel Dashboards
 
 ---
 
