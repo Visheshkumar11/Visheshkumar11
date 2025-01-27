@@ -11,7 +11,9 @@
 
 ## 🚀 Seeking Opportunities
 
-Hello! I'm Vishesh Kumar, an **aspiring Business Strategist** passionate about leveraging **data-driven decision-making** to solve business challenges. With hands-on experience in **Excel**, **Power BI**, **SQL**, and **Python**, I strive to deliver impactful business solutions through strategic insights and advanced analytics.
+Hello! I'm Vishesh Kumar, an **aspiring Business Strategist**, passionate about leveraging **data-driven decision-making** to solve business challenges. With expertise in **Machine Learning**, **Artificial Intelligence**, **Data Structures and Algorithms**, and **Advanced Analytics**, I aim to carve my future as an **Analyst**, **Product Manager**, or **Consultant**. 
+
+I believe in the power of data and technology to drive innovative solutions and help organizations grow. My goal is to bridge the gap between data insights and actionable business strategies.
 
 ---
 
@@ -23,7 +25,13 @@ Hello! I'm Vishesh Kumar, an **aspiring Business Strategist** passionate about l
 
 ✔ **SQL** – Queries, Joins, Data Extraction, Database Optimization
 
-✔ **Python** – Data Analysis, Pandas, NumPy, Matplotlib, Seaborn
+✔ **Python** – Data Analysis, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+
+✔ **Machine Learning** – Regression, Classification, Clustering, Model Optimization
+
+✔ **Artificial Intelligence** – Basics of Neural Networks, NLP
+
+✔ **Data Structures and Algorithms** – Problem Solving, Complexity Optimization
 
 ✔ **Business Analysis** – BRD, FRD, Wireframes, Agile & Waterfall Methodologies
 
@@ -48,6 +56,7 @@ Hello! I'm Vishesh Kumar, an **aspiring Business Strategist** passionate about l
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /> </a>
   <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" /> </a>
 </p>
 
 ---
